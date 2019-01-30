@@ -10,4 +10,7 @@ public class Calculate {
         return num1*num2;
     
     }
+    public static double divide(double num3, double num4){
+        return num3/num4;
+    }
 }
